@@ -612,7 +612,7 @@ https://github.com/TP-Lab/tp-js-sdk
 </div>
 <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1597390963715.png" width="250">
 
-## TRON TRON钱包常见问题
+## TRON钱包常见问题
 <div class="ask-code">
 <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1597390895476.png" width="250">
 
